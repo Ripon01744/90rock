@@ -1,13 +1,11 @@
 {
   "status": true,
-  "message": "Data fetched successfully",
-  "version": "1.0.0",
   "data": {
-    "name": "90Rock",
-    "title": "Test JSON API",
-    "description": "This is a test JSON file hosted on GitHub.",
-    "image": "https://example.com/image.jpg",
-    "url": "https://example.com",
-    "active": true
+    "active": true,
+    "name": "PORI777",
+    "url": "https://pori777.com",
+    "domains": ["pori777.com","www.pori777.com.com"],
+    "expires": "2027-12-31",
+    "message": ""
   }
 }
